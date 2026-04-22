@@ -4,6 +4,17 @@ Sentinel-RAG is a high-performance, **local-first AI agent** designed for secure
 
 ---
 
+## 📸 Visuals
+
+### 1. Modern UI Interaction
+![Gradio UI Interaction](assets/ui.png)
+
+### 2. Strict Configuration & Terminal Setup
+![Terminal Setup](assets/terminal.png)
+
+---
+
+
 ## 🛡️ Core Objective
 To provide a secure, private interface for document interaction where every answer is strictly grounded in the provided context, ensuring **zero hallucinations** and **complete traceability**.
 
